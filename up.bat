@@ -1,2 +1,2 @@
-docker-compose --file docker-compose-local.yml up -d
+docker-compose up -d
 pause
