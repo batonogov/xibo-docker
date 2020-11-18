@@ -7,3 +7,4 @@ registry.sh
 update-registry.sh
 docker-compose-local.yml
 update.bat
+!config.env
